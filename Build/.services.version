@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "8e5e0e4fe5c8048fa002983a0cfd2bacb3991bea",
+  "iOS" : [
+    {
+      "name" : "Tivio",
+      "hash" : "9e8f7c0aba447d88fd7a95eae0804dec717b95c6dc207b1d186a399a2eaeaf9a",
+      "linking" : "dynamic"
+    }
+  ]
+}
