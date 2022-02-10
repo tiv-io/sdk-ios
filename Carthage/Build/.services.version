@@ -8,11 +8,11 @@
   "tvOS" : [
 
   ],
-  "commitish" : "8c1ae28ba7f66ee8c1995e04ba60b4bb5ab388a9",
+  "commitish" : "9d628546d6e8c43b4b4c47aa7a82ce2ad53de5a6",
   "iOS" : [
     {
       "name" : "Tivio",
-      "hash" : "135be8506fc065be0a4b9535658bbbf81aaa293c0560537c1fd7179da5050c06",
+      "hash" : "f14eddceebbd3f640710bd4b1fcbd516a3fb493de202d0e1afcf27d0d5016b6c",
       "linking" : "dynamic"
     }
   ]
